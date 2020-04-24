@@ -1,1 +1,1 @@
- 2javaX"hrBsrc/main/java/com/cts/covid/PandemicApp/controller/CovidCases.java
+ 2javaXhr9src/main/java/com/cts/covid/PandemicApp/model/States.java

@@ -1,16 +1,13 @@
-package com.cts.covid.PandemicApp.model;
+package com.cts.covid.PandemicApp;
 
-import java.util.List;
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
 
+@SpringBootTest
+class PandemicAppApplicationTests {
 
-import lombok.AllArgsConstructor;
-import lombok.Data;
-import lombok.NoArgsConstructor;
+	@Test
+	void contextLoads() {
+	}
 
-@Data
-@AllArgsConstructor
-@NoArgsConstructor
-public class StateName {
-
-private List<States> states;
 }

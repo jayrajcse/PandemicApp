@@ -1,1 +1,1 @@
- 2javaXhr;src/main/java/com/cts/covid/PandemicApp/model/DistName.java
+ 2javaX…hrFsrc/main/java/com/cts/covid/PandemicApp/service/StateStatsService.java

@@ -1,1 +1,0 @@
- 2javaXhrCsrc/main/java/com/cts/covid/PandemicApp/PandemicAppApplication.java

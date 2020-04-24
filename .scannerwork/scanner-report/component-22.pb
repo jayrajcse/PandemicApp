@@ -1,1 +1,1 @@
- 2javaXhr@src/main/java/com/cts/covid/PandemicApp/model/ChildrenClass.java
+ 2javaXhr>src/main/java/com/cts/covid/PandemicApp/model/WrapperData.java

@@ -1,1 +1,1 @@
- 2javaXhrAsrc/main/java/com/cts/covid/PandemicApp/config/SwaggerConfig.java
+ 2javaXhr<src/main/java/com/cts/covid/PandemicApp/model/StateName.java

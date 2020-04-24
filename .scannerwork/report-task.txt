@@ -2,5 +2,5 @@ projectKey=PandemicApp_key
 serverUrl=http://localhost:9000
 serverVersion=8.2.0.32929
 dashboardUrl=http://localhost:9000/dashboard?id=PandemicApp_key
-ceTaskId=AXGnjtAdJ7lu8Gyn8jM_
-ceTaskUrl=http://localhost:9000/api/ce/task?id=AXGnjtAdJ7lu8Gyn8jM_
+ceTaskId=AXGqt__rSE8Nco9iujgf
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AXGqt__rSE8Nco9iujgf

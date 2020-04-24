@@ -1,10 +1,13 @@
-package com.cts.covid.PandemicApp.controller;
+package com.cts.covid.PandemicApp.model;
 
+
+
+import lombok.AllArgsConstructor;
 import lombok.Data;
-
+import lombok.NoArgsConstructor;
+@AllArgsConstructor
+@NoArgsConstructor
 @Data
-public class UserRequest {
-private String userId;	
-private String userName;
-
+public class WrapperChildren {
+	private DistName data;
 }

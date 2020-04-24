@@ -1,20 +1,13 @@
-package com.cts.covid.PandemicApp.model;
+package com.cts.covid.PandemicApp;
 
-import java.util.List;
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-import lombok.AllArgsConstructor;
-import lombok.Data;
-import lombok.NoArgsConstructor;
+@SpringBootApplication
+public class PandemicAppApplication {
 
-
-@AllArgsConstructor
-@NoArgsConstructor
-@Data
-public class DataClass {
-String cases;
-int reportedcases;
-int activecases;
-int deceasedcases;
-int recoveredcases;
+	public static void main(String[] args) {
+		SpringApplication.run(PandemicAppApplication.class, args);
+	}
 
 }

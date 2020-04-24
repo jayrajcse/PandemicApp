@@ -1,1 +1,1 @@
- 2javaXhr>src/main/java/com/cts/covid/PandemicApp/config/CORSConfig.java
+ 2javaXhr?src/main/java/com/cts/covid/PandemicApp/model/DistrictData.java

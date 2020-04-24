@@ -1,1 +1,1 @@
- 2xmlXVhrpom.xml
+ 2javaXhr<src/main/java/com/cts/covid/PandemicApp/model/DataClass.java

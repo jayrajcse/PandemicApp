@@ -1,1 +1,1 @@
- 2javaXhr<src/main/java/com/cts/covid/PandemicApp/model/DataClass.java
+ 2javaXhrCsrc/main/java/com/cts/covid/PandemicApp/PandemicAppApplication.java
