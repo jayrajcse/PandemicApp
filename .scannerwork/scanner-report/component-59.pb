@@ -1,0 +1,1 @@
+; 2xmlX;hrVtarget/surefire-reports/TEST-com.cts.covid.PandemicApp.PandemicAppApplicationTests.xml
